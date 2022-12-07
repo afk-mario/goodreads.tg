@@ -1,4 +1,4 @@
-certifi==2016.9.26
+certifi==2022.12.7
 click==6.7
 future==0.16.0
 goodreads==0.3.2
